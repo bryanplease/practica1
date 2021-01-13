@@ -1,0 +1,39 @@
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\bin\Debug\Tsimbolos.dll
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\bin\Debug\Tsimbolos.pdb
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.dll
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.pdb
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.csprojResolveAssemblyReference.cache
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\bin\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\bin\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\bin\Debug\Tsimbolos.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\bin\Debug\Tsimbolos.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\bin\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\bin\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.csprojResolveAssemblyReference.cache
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.pdb
+C:\Users\Daniel\Desktop\Compilador C#\CompEd\Tsimbolos\bin\Debug\Tsimbolos.dll
+C:\Users\Daniel\Desktop\Compilador C#\CompEd\Tsimbolos\bin\Debug\Tsimbolos.pdb
+C:\Users\Daniel\Desktop\Compilador C#\CompEd\Tsimbolos\bin\Debug\ManejoDeErrores.dll
+C:\Users\Daniel\Desktop\Compilador C#\CompEd\Tsimbolos\bin\Debug\ManejoDeErrores.pdb
+C:\Users\Daniel\Desktop\Compilador C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Compilador C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.csproj.CopyComplete
+C:\Users\Daniel\Desktop\Compilador C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.dll
+C:\Users\Daniel\Desktop\Compilador C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.pdb
+C:\Users\Daniel\Desktop\Compilador C#\CompiladorAutomatas\Tsimbolos\bin\Debug\Tsimbolos.dll
+C:\Users\Daniel\Desktop\Compilador C#\CompiladorAutomatas\Tsimbolos\bin\Debug\Tsimbolos.pdb
+C:\Users\Daniel\Desktop\Compilador C#\CompiladorAutomatas\Tsimbolos\bin\Debug\ManejoDeErrores.dll
+C:\Users\Daniel\Desktop\Compilador C#\CompiladorAutomatas\Tsimbolos\bin\Debug\ManejoDeErrores.pdb
+C:\Users\Daniel\Desktop\Compilador C#\CompiladorAutomatas\Tsimbolos\obj\Debug\Tsimbolos.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Compilador C#\CompiladorAutomatas\Tsimbolos\obj\Debug\Tsimbolos.csproj.CopyComplete
+C:\Users\Daniel\Desktop\Compilador C#\CompiladorAutomatas\Tsimbolos\obj\Debug\Tsimbolos.dll
+C:\Users\Daniel\Desktop\Compilador C#\CompiladorAutomatas\Tsimbolos\obj\Debug\Tsimbolos.pdb
+C:\Users\Bryan\Desktop\Nueva carpeta (4)\Compilador C#\CompiladorAutomatas\Tsimbolos\bin\Debug\Tsimbolos.dll
+C:\Users\Bryan\Desktop\Nueva carpeta (4)\Compilador C#\CompiladorAutomatas\Tsimbolos\bin\Debug\Tsimbolos.pdb
+C:\Users\Bryan\Desktop\Nueva carpeta (4)\Compilador C#\CompiladorAutomatas\Tsimbolos\bin\Debug\ManejoDeErrores.dll
+C:\Users\Bryan\Desktop\Nueva carpeta (4)\Compilador C#\CompiladorAutomatas\Tsimbolos\bin\Debug\ManejoDeErrores.pdb
+C:\Users\Bryan\Desktop\Nueva carpeta (4)\Compilador C#\CompiladorAutomatas\Tsimbolos\obj\Debug\Tsimbolos.csprojAssemblyReference.cache
+C:\Users\Bryan\Desktop\Nueva carpeta (4)\Compilador C#\CompiladorAutomatas\Tsimbolos\obj\Debug\Tsimbolos.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Desktop\Nueva carpeta (4)\Compilador C#\CompiladorAutomatas\Tsimbolos\obj\Debug\Tsimbolos.csproj.CopyComplete
+C:\Users\Bryan\Desktop\Nueva carpeta (4)\Compilador C#\CompiladorAutomatas\Tsimbolos\obj\Debug\Tsimbolos.dll
+C:\Users\Bryan\Desktop\Nueva carpeta (4)\Compilador C#\CompiladorAutomatas\Tsimbolos\obj\Debug\Tsimbolos.pdb

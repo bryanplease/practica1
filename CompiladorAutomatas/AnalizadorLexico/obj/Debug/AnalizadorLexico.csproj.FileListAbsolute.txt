@@ -1,0 +1,34 @@
+E:\Bibliotecas\programacion\C#\CompEd\AnalizadorLexico\bin\Debug\AnalizadorLexico.dll
+E:\Bibliotecas\programacion\C#\CompEd\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+E:\Bibliotecas\programacion\C#\CompEd\AnalizadorLexico\obj\Debug\AnalizadorLexico.csprojResolveAssemblyReference.cache
+E:\Bibliotecas\programacion\C#\CompEd\AnalizadorLexico\obj\Debug\AnalizadorLexico.dll
+E:\Bibliotecas\programacion\C#\CompEd\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+E:\Bibliotecas\programacion\C#\CompEd\AnalizadorLexico\bin\Debug\Archivos.dll
+E:\Bibliotecas\programacion\C#\CompEd\AnalizadorLexico\bin\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\C#\CompEd\AnalizadorLexico\bin\Debug\Tsimbolos.dll
+E:\Bibliotecas\programacion\C#\CompEd\AnalizadorLexico\bin\Debug\Archivos.pdb
+E:\Bibliotecas\programacion\C#\CompEd\AnalizadorLexico\bin\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\C#\CompEd\AnalizadorLexico\bin\Debug\Tsimbolos.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\AnalizadorLexico\bin\Debug\AnalizadorLexico.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\AnalizadorLexico\bin\Debug\Archivos.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\AnalizadorLexico\bin\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\AnalizadorLexico\bin\Debug\Tsimbolos.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\AnalizadorLexico\bin\Debug\Archivos.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\AnalizadorLexico\bin\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\AnalizadorLexico\bin\Debug\Tsimbolos.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\AnalizadorLexico\obj\Debug\AnalizadorLexico.csprojResolveAssemblyReference.cache
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\AnalizadorLexico\obj\Debug\AnalizadorLexico.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+C:\Users\Daniel\Desktop\Compilador C#\CompiladorAutomatas\AnalizadorLexico\bin\Debug\AnalizadorLexico.dll
+C:\Users\Daniel\Desktop\Compilador C#\CompiladorAutomatas\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\Daniel\Desktop\Compilador C#\CompiladorAutomatas\AnalizadorLexico\bin\Debug\Archivos.dll
+C:\Users\Daniel\Desktop\Compilador C#\CompiladorAutomatas\AnalizadorLexico\bin\Debug\ManejoDeErrores.dll
+C:\Users\Daniel\Desktop\Compilador C#\CompiladorAutomatas\AnalizadorLexico\bin\Debug\Tsimbolos.dll
+C:\Users\Daniel\Desktop\Compilador C#\CompiladorAutomatas\AnalizadorLexico\bin\Debug\Archivos.pdb
+C:\Users\Daniel\Desktop\Compilador C#\CompiladorAutomatas\AnalizadorLexico\bin\Debug\ManejoDeErrores.pdb
+C:\Users\Daniel\Desktop\Compilador C#\CompiladorAutomatas\AnalizadorLexico\bin\Debug\Tsimbolos.pdb
+C:\Users\Daniel\Desktop\Compilador C#\CompiladorAutomatas\AnalizadorLexico\obj\Debug\AnalizadorLexico.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Compilador C#\CompiladorAutomatas\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CopyComplete
+C:\Users\Daniel\Desktop\Compilador C#\CompiladorAutomatas\AnalizadorLexico\obj\Debug\AnalizadorLexico.dll
+C:\Users\Daniel\Desktop\Compilador C#\CompiladorAutomatas\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb

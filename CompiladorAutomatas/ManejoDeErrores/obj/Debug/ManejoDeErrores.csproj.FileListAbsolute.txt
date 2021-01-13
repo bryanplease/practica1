@@ -1,0 +1,21 @@
+E:\Bibliotecas\programacion\C#\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\C#\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.csprojResolveAssemblyReference.cache
+E:\Bibliotecas\programacion\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.csprojResolveAssemblyReference.cache
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb
+C:\Users\Daniel\Desktop\Compilador C#\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.dll
+C:\Users\Daniel\Desktop\Compilador C#\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.pdb
+C:\Users\Daniel\Desktop\Compilador C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Compilador C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.dll
+C:\Users\Daniel\Desktop\Compilador C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb
+C:\Users\Bryan\Desktop\Nueva carpeta (4)\Compilador C#\CompiladorAutomatas\ManejoDeErrores\bin\Debug\ManejoDeErrores.dll
+C:\Users\Bryan\Desktop\Nueva carpeta (4)\Compilador C#\CompiladorAutomatas\ManejoDeErrores\bin\Debug\ManejoDeErrores.pdb
+C:\Users\Bryan\Desktop\Nueva carpeta (4)\Compilador C#\CompiladorAutomatas\ManejoDeErrores\obj\Debug\ManejoDeErrores.csprojAssemblyReference.cache
+C:\Users\Bryan\Desktop\Nueva carpeta (4)\Compilador C#\CompiladorAutomatas\ManejoDeErrores\obj\Debug\ManejoDeErrores.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Desktop\Nueva carpeta (4)\Compilador C#\CompiladorAutomatas\ManejoDeErrores\obj\Debug\ManejoDeErrores.dll
+C:\Users\Bryan\Desktop\Nueva carpeta (4)\Compilador C#\CompiladorAutomatas\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb
